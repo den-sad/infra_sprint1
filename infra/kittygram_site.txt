@@ -1,0 +1,5 @@
+IP: 51.250.25.120;
+name_taski: https://taski.virtual-it.ru/;
+name_kittygram: https://kitty.virtual-it.ru/;
+login: yc-user;
+password: 238327228; 
