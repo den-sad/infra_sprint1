@@ -1,4 +1,5 @@
 server {
+    server_tokens off;
     server_name 51.250.25.120 kitty.virtual-it.ru;
 
     location /api/ {
@@ -27,6 +28,7 @@ server {
 }
 
 server {
+    server_tokens off;
     server_name 51.250.25.120 taski.virtual-it.ru;
 
     location /api/ {
